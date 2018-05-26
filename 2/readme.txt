@@ -1,0 +1,1 @@
+代码实现了绑定了在jquery对象上的轮播图插件，其中animate、autoPlay为必选参数，nextBtn、prevBtn为可选参数
